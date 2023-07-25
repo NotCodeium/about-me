@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+}
+
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+body {
+    background-color: rgb(196, 202, 207);
+
+
+}
+
+.one {
+    display: grid;
+    background-color: rgb(100, 255, 209);
+    height: 300px;
+    width: 400px;
+    padding: 10px;
+}
+
+.two {
+    background-color: rgb(100, 255, 209);
+    display: grid;
+    width: 400px;
+    padding: 10px;
+
+
+}
+
+.thr {
+    background-color: rgb(100, 255, 209);
+    display: grid;
+    padding: 10px;
+    width: 400px;
+}
+
+
+.sm {
+    background-color: rgb(146, 203, 236);
+    display: grid;
+    width: 400px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1rem;
+
+}
