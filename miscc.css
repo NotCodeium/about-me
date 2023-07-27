@@ -1,0 +1,25 @@
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-around;
+
+}
+
+
+
+.one {
+    
+    display: grid;
+    width: 300px;
+    height: auto;
+
+
+}
+
+.two {
+    
+    display: grid;
+    width: 300px;
+    height: auto;
+
+}
