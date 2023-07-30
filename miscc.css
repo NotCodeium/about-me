@@ -2,24 +2,54 @@
     display: grid;
     grid-template-columns: auto auto;
     justify-content: space-around;
+}
+
+
+h1 {
+    text-align: center;
 
 }
 
+body {
+    background-color: rgb(156, 156, 156);
+
+}
+
+h3 {
+    color: white;
+
+}
+
+p {
+    color: white;
+
+}
+
+a {
+    color: rgb(50, 144, 221);
+
+}
 
 
 .one {
-    
+
+    font-size: 17px;
+    background-image: url(/about-me/images/asfdafds.webp);
+    background-repeat: no-repeat;
     display: grid;
-    width: 300px;
-    height: auto;
-
-
+    width: 350px;
+    height: 649px;
+    text-align: center;
 }
 
+
+
 .two {
-    
+    background-image: url(/about-me/images/pencil.png);
+    background-repeat: no-repeat;
+    background-size: cover;
     display: grid;
     width: 300px;
     height: auto;
-
+    
 }

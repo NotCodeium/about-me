@@ -10,8 +10,10 @@ p {
 }
 
 body {
-    background-color: rgb(196, 202, 207);
-
+    background-color: rgb(89, 90, 90);
+    background-image: url(/about-me/images/background.webp);
+    background-repeat: no-repeat;
+    background-size: 1880px 1000px;
 
 }
 
@@ -21,6 +23,9 @@ body {
     height: 300px;
     width: 400px;
     padding: 10px;
+    background-image: url(/about-me/images/fancy\ box.png);
+    background-size: 420px 320px;
+    background-repeat: no-repeat;
 }
 
 .two {
@@ -28,6 +33,9 @@ body {
     display: grid;
     width: 400px;
     padding: 10px;
+    background-image: url(/about-me/images/fancy\ box.png);
+    background-size: 420px 354px;
+    background-repeat: no-repeat;
 
 
 }
@@ -37,6 +45,9 @@ body {
     display: grid;
     padding: 10px;
     width: 400px;
+    background-image: url(/about-me/images/fancy\ box.png);
+    background-size: 420px 354px;
+    background-repeat: no-repeat;
 }
 
 
@@ -45,11 +56,25 @@ body {
     display: grid;
     width: 400px;
     padding: 10px;
+    background-image: url(/about-me/images/fancy\ box.png);
+    background-size: 420px 220px;
+    background-repeat: no-repeat;
     
 }
 
 
 
+
+
+.click {
+    color: rgb(219, 101, 219);
+    padding: 20px;
+    background-image: url(/about-me/images/hihi.webp);
+    background-size: 400px 50px;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 90px;
+}
 
 
 
